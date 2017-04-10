@@ -1,0 +1,3 @@
+FIFO faults: 15
+LRU faults: 12
+Optimal faults: 9
