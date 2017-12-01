@@ -1,0 +1,30 @@
+add big.o in makefile
+
+add \big to UPROG in makefile
+
+df -h to see space usage
+
+Virtual box
+-storage
+-newtorage
+-create on disk
+-choose size
+
+in mkfs.c
+change size to 40960 for 20MB disk
+
+
+ls -lh fs* to list file size
+
+leave inodes alone
+
+echo creates file
+echo > writes to file
+
+when rm
+update directory entry
+update inode entry
+
+oddity
+when writing character with echo >
+same write operation occcurs twice
